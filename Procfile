@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run uber_pickups.py
+web: sh setup.sh && streamlit run skillenza_v2.py
